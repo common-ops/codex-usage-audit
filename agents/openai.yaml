@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Usage Audit"
+  short_description: "Audit local Codex token usage by task and reset window"
+  default_prompt: "Audit this computer’s Codex usage for the current weekly window and the last 7 days."
